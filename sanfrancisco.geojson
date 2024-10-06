@@ -151,6 +151,7 @@
             "properties":{
                 "NAME": "Marina",
                 "Known_Area": true,
+                "display_name": true,
                 "mapTitles_X_Position": 20,
                 "mapTitles_Y_Position": 20,
                 "css_styling": "font-size: 9px; fill: black; position: sticky; font-weight: bolder; pointer-events: none; font-family: 'Quicksand', sans-serif;"
@@ -175,6 +176,7 @@
             "properties":{
                 "NAME": "Downtown / Union Square",
                 "Known_Area": true,
+                "display_name": true,
                 "mapTitles_X_Position": 30,
                 "mapTitles_Y_Position": 10,
                 "css_styling": "font-size: 12px; fill: black; position: sticky; font-weight: bolder; pointer-events: none;font-family: 'Quicksand', sans-serif;"
@@ -5235,6 +5237,7 @@
             "properties": {
                 "NAME": "Mission",
                 "Known_Area": true,
+                "display_name": true,
                 "mapTitles_X_Position": 30,
                 "mapTitles_Y_Position": 10,
                 "css_styling": "font-size: 10px; fill: black; position: sticky; font-weight: bolder; pointer-events: none; font-family: 'Quicksand', sans-serif;"
@@ -22933,7 +22936,9 @@
             "type": "Feature",
             "properties": {
                 "NAME": "Chinatown",
-                "Known_Area": true
+                "Known_Area": true,
+                "display_name": true,
+
             },
             "geometry": {
                 "type": "Polygon",
