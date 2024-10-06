@@ -151,8 +151,8 @@
             "properties":{
                 "NAME": "Marina",
                 "Known_Area": true,
-                "mapTitles_X_Position": 30,
-                "mapTitles_Y_Position": 10,
+                "mapTitles_X_Position": 20,
+                "mapTitles_Y_Position": 20,
                 "css_styling": "font-size: 9px; fill: black; position: sticky; font-weight: bolder; pointer-events: none; font-family: 'Quicksand', sans-serif;"
             },
             "geometry":
