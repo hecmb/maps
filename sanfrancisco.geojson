@@ -22937,8 +22937,7 @@
             "properties": {
                 "NAME": "Chinatown",
                 "Known_Area": true,
-                "display_name": true,
-
+                "display_name": true
             },
             "geometry": {
                 "type": "Polygon",
