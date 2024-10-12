@@ -418,7 +418,6 @@
                 "mapTitles_X_Position": 30,
                 "mapTitles_Y_Position": 10,
                 "css_styling": "font-size: 12px; fill: black; position: sticky; font-weight: 600; pointer-events: none;letter-spacing: .8px;"
-
             },
             "geometry": {
                 "type": "Polygon",
