@@ -76,7 +76,10 @@
         },
         {
             "type":"Feature",
-            "properties":{"NAME": "Golden Gate Park"},
+            "properties":{
+                "NAME": "Golden Gate Park",
+                "Known_Area": true
+            },
             "geometry":
             {
             "type":"Polygon",
@@ -139,7 +142,14 @@
         },
         {
             "type":"Feature",
-            "properties":{"NAME": "Nob Hill"},
+            "properties":{
+                "NAME": "Nob Hill",
+                "Known_Area": true,
+                "display_name": false,
+                "mapTitles_X_Position": 30,
+                "mapTitles_Y_Position": 10,
+                "css_styling": "font-size: 12px; fill: black; position: sticky; font-weight: 600; pointer-events: none;letter-spacing: .8px;"
+            },
             "geometry":
             {
             "type":"Polygon",
@@ -474,7 +484,13 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Lower Haight"
+                "NAME": "Lower Haight",
+                "Known_Area": true,
+                "display_name": false,
+                "mapTitles_X_Position": 30,
+                "mapTitles_Y_Position": 10,
+                "css_styling": "font-size: 12px; fill: black; position: sticky; font-weight: 600; pointer-events: none;letter-spacing: .8px;"
+
             },
             "geometry": {
                 "type": "Polygon",
@@ -1096,7 +1112,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "South of Market"
+                "NAME": "South of Market",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
@@ -1889,7 +1906,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Mission Dolores"
+                "NAME": "Mission Dolores",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
@@ -1950,7 +1968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Castro"
+                "NAME": "Castro",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
@@ -5148,7 +5167,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Dolores Heights"
+                "NAME": "Dolores Heights",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
@@ -21768,7 +21788,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Fishermans Wharf"
+                "NAME": "Fishermans Wharf",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
@@ -22550,7 +22571,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Japantown"
+                "NAME": "Japantown",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
@@ -22687,7 +22709,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "Pacific Heights"
+                "NAME": "Pacific Heights",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
@@ -23184,7 +23207,8 @@
         {
             "type": "Feature",
             "properties": {
-                "NAME": "North Beach"
+                "NAME": "North Beach",
+                "Known_Area": true
             },
             "geometry": {
                 "type": "Polygon",
