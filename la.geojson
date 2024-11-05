@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Adams-Normandie",
+        "NAME": "Adams-Normandie",
         "cartodb_id": 1,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -254,7 +254,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arleta",
+        "NAME": "Arleta",
         "cartodb_id": 2,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -604,7 +604,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Arlington Heights",
+        "NAME": "Arlington Heights",
         "cartodb_id": 3,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -834,7 +834,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Atwater Village",
+        "NAME": "Atwater Village",
         "cartodb_id": 4,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -1292,7 +1292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Baldwin Hills/Crenshaw",
+        "NAME": "Baldwin Hills/Crenshaw",
         "cartodb_id": 5,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -2606,7 +2606,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bel-Air",
+        "NAME": "Bel-Air",
         "cartodb_id": 6,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -3292,7 +3292,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Beverly Crest",
+        "NAME": "Beverly Crest",
         "cartodb_id": 7,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -4922,7 +4922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Beverly Grove",
+        "NAME": "Beverly Grove",
         "cartodb_id": 8,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -5920,7 +5920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Beverlywood",
+        "NAME": "Beverlywood",
         "cartodb_id": 9,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -6158,7 +6158,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Boyle Heights",
+        "NAME": "Boyle Heights",
         "cartodb_id": 10,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -7148,7 +7148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Brentwood",
+        "NAME": "Brentwood",
         "cartodb_id": 11,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -8798,7 +8798,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Broadway-Manchester",
+        "NAME": "Broadway-Manchester",
         "cartodb_id": 12,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -9288,7 +9288,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Canoga Park",
+        "NAME": "Canoga Park",
         "cartodb_id": 13,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -9726,7 +9726,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Carthay",
+        "NAME": "Carthay",
         "cartodb_id": 14,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -9920,7 +9920,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Central-Alameda",
+        "NAME": "Central-Alameda",
         "cartodb_id": 15,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -10546,7 +10546,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Century City",
+        "NAME": "Century City",
         "cartodb_id": 16,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -10808,7 +10808,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chatsworth",
+        "NAME": "Chatsworth",
         "cartodb_id": 17,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -13122,7 +13122,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chatsworth Reservoir",
+        "NAME": "Chatsworth Reservoir",
         "cartodb_id": 18,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -13804,7 +13804,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chesterfield Square",
+        "NAME": "Chesterfield Square",
         "cartodb_id": 19,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -14042,7 +14042,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cheviot Hills",
+        "NAME": "Cheviot Hills",
         "cartodb_id": 20,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -14284,7 +14284,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Chinatown",
+        "NAME": "Chinatown",
         "cartodb_id": 21,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -14566,7 +14566,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cypress Park",
+        "NAME": "Cypress Park",
         "cartodb_id": 22,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -14876,7 +14876,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Del Rey",
+        "NAME": "Del Rey",
         "cartodb_id": 23,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -16106,7 +16106,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Downtown",
+        "NAME": "Downtown",
         "cartodb_id": 24,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -16832,7 +16832,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Eagle Rock",
+        "NAME": "Eagle Rock",
         "cartodb_id": 25,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -18022,7 +18022,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "East Hollywood",
+        "NAME": "East Hollywood",
         "cartodb_id": 26,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -18484,7 +18484,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Echo Park",
+        "NAME": "Echo Park",
         "cartodb_id": 27,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -18962,7 +18962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "El Sereno",
+        "NAME": "El Sereno",
         "cartodb_id": 28,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -19936,7 +19936,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elysian Park",
+        "NAME": "Elysian Park",
         "cartodb_id": 29,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -20230,7 +20230,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Elysian Valley",
+        "NAME": "Elysian Valley",
         "cartodb_id": 30,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -20464,7 +20464,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Encino",
+        "NAME": "Encino",
         "cartodb_id": 31,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -21826,7 +21826,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Exposition Park",
+        "NAME": "Exposition Park",
         "cartodb_id": 32,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -22172,7 +22172,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fairfax",
+        "NAME": "Fairfax",
         "cartodb_id": 33,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -22426,7 +22426,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Florence",
+        "NAME": "Florence",
         "cartodb_id": 34,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -22904,7 +22904,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Glassell Park",
+        "NAME": "Glassell Park",
         "cartodb_id": 35,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -23526,7 +23526,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Gramercy Park",
+        "NAME": "Gramercy Park",
         "cartodb_id": 36,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -24028,7 +24028,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Granada Hills",
+        "NAME": "Granada Hills",
         "cartodb_id": 37,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -25002,7 +25002,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Green Meadows",
+        "NAME": "Green Meadows",
         "cartodb_id": 38,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -25628,7 +25628,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Griffith Park",
+        "NAME": "Griffith Park",
         "cartodb_id": 39,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -26402,7 +26402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hancock Park",
+        "NAME": "Hancock Park",
         "cartodb_id": 40,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -26664,7 +26664,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hansen Dam",
+        "NAME": "Hansen Dam",
         "cartodb_id": 41,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -26926,7 +26926,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Harbor City",
+        "NAME": "Harbor City",
         "cartodb_id": 42,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -27712,7 +27712,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Harbor Gateway",
+        "NAME": "Harbor Gateway",
         "cartodb_id": 43,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -29918,7 +29918,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Harvard Heights",
+        "NAME": "Harvard Heights",
         "cartodb_id": 44,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -30132,7 +30132,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Harvard Park",
+        "NAME": "Harvard Park",
         "cartodb_id": 45,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -30406,7 +30406,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Highland Park",
+        "NAME": "Highland Park",
         "cartodb_id": 46,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -31660,7 +31660,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Historic South-Central",
+        "NAME": "Historic South-Central",
         "cartodb_id": 47,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -32090,7 +32090,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hollywood",
+        "NAME": "Hollywood",
         "cartodb_id": 48,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -32768,7 +32768,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hollywood Hills",
+        "NAME": "Hollywood Hills",
         "cartodb_id": 49,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -33850,7 +33850,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hollywood Hills West",
+        "NAME": "Hollywood Hills West",
         "cartodb_id": 50,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -35020,7 +35020,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Hyde Park",
+        "NAME": "Hyde Park",
         "cartodb_id": 51,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -35890,7 +35890,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Jefferson Park",
+        "NAME": "Jefferson Park",
         "cartodb_id": 52,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -36160,7 +36160,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Koreatown",
+        "NAME": "Koreatown",
         "cartodb_id": 53,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -36610,7 +36610,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lake Balboa",
+        "NAME": "Lake Balboa",
         "cartodb_id": 54,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -36916,7 +36916,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lake View Terrace",
+        "NAME": "Lake View Terrace",
         "cartodb_id": 55,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -38402,7 +38402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Larchmont",
+        "NAME": "Larchmont",
         "cartodb_id": 56,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -38616,7 +38616,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Leimert Park",
+        "NAME": "Leimert Park",
         "cartodb_id": 57,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -38954,7 +38954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Lincoln Heights",
+        "NAME": "Lincoln Heights",
         "cartodb_id": 58,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -39488,7 +39488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Los Feliz",
+        "NAME": "Los Feliz",
         "cartodb_id": 59,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -39846,7 +39846,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Manchester Square",
+        "NAME": "Manchester Square",
         "cartodb_id": 60,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -40148,7 +40148,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mar Vista",
+        "NAME": "Mar Vista",
         "cartodb_id": 61,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -40766,7 +40766,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mid-City",
+        "NAME": "Mid-City",
         "cartodb_id": 62,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -41544,7 +41544,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mid-Wilshire",
+        "NAME": "Mid-Wilshire",
         "cartodb_id": 63,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -42046,7 +42046,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mission Hills",
+        "NAME": "Mission Hills",
         "cartodb_id": 64,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -42520,7 +42520,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Montecito Heights",
+        "NAME": "Montecito Heights",
         "cartodb_id": 65,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -43114,7 +43114,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mount Washington",
+        "NAME": "Mount Washington",
         "cartodb_id": 66,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -43488,7 +43488,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Hills",
+        "NAME": "North Hills",
         "cartodb_id": 67,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -44014,7 +44014,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "North Hollywood",
+        "NAME": "North Hollywood",
         "cartodb_id": 68,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -44828,7 +44828,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Northridge",
+        "NAME": "Northridge",
         "cartodb_id": 69,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -45434,7 +45434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pacific Palisades",
+        "NAME": "Pacific Palisades",
         "cartodb_id": 70,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -47088,7 +47088,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pacoima",
+        "NAME": "Pacoima",
         "cartodb_id": 71,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -47926,7 +47926,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Palms",
+        "NAME": "Palms",
         "cartodb_id": 72,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -48672,7 +48672,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Panorama City",
+        "NAME": "Panorama City",
         "cartodb_id": 73,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -48994,7 +48994,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pico-Robertson",
+        "NAME": "Pico-Robertson",
         "cartodb_id": 74,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -49824,7 +49824,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Pico-Union",
+        "NAME": "Pico-Union",
         "cartodb_id": 75,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -50206,7 +50206,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Playa del Rey",
+        "NAME": "Playa del Rey",
         "cartodb_id": 76,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -52228,7 +52228,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Playa Vista",
+        "NAME": "Playa Vista",
         "cartodb_id": 77,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -52618,7 +52618,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Porter Ranch",
+        "NAME": "Porter Ranch",
         "cartodb_id": 78,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -53260,7 +53260,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rancho Park",
+        "NAME": "Rancho Park",
         "cartodb_id": 79,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -53578,7 +53578,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Reseda",
+        "NAME": "Reseda",
         "cartodb_id": 80,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -54032,7 +54032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "San Pedro",
+        "NAME": "San Pedro",
         "cartodb_id": 81,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -60702,7 +60702,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sawtelle",
+        "NAME": "Sawtelle",
         "cartodb_id": 82,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -61376,7 +61376,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sepulveda Basin",
+        "NAME": "Sepulveda Basin",
         "cartodb_id": 83,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -61910,7 +61910,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shadow Hills",
+        "NAME": "Shadow Hills",
         "cartodb_id": 84,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -62784,7 +62784,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sherman Oaks",
+        "NAME": "Sherman Oaks",
         "cartodb_id": 85,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -64018,7 +64018,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Silver Lake",
+        "NAME": "Silver Lake",
         "cartodb_id": 86,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -64536,7 +64536,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "South Park",
+        "NAME": "South Park",
         "cartodb_id": 87,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -64886,7 +64886,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Studio City",
+        "NAME": "Studio City",
         "cartodb_id": 88,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -66092,7 +66092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sunland",
+        "NAME": "Sunland",
         "cartodb_id": 89,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -66806,7 +66806,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sun Valley",
+        "NAME": "Sun Valley",
         "cartodb_id": 90,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -67424,7 +67424,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Sylmar",
+        "NAME": "Sylmar",
         "cartodb_id": 91,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -69434,7 +69434,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tarzana",
+        "NAME": "Tarzana",
         "cartodb_id": 92,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -70636,7 +70636,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Toluca Lake",
+        "NAME": "Toluca Lake",
         "cartodb_id": 93,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -71058,7 +71058,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Tujunga",
+        "NAME": "Tujunga",
         "cartodb_id": 94,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -71884,7 +71884,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "University Park",
+        "NAME": "University Park",
         "cartodb_id": 95,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -72162,7 +72162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Valley Glen",
+        "NAME": "Valley Glen",
         "cartodb_id": 96,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -72760,7 +72760,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Valley Village",
+        "NAME": "Valley Village",
         "cartodb_id": 97,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -73130,7 +73130,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Van Nuys",
+        "NAME": "Van Nuys",
         "cartodb_id": 98,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -73808,7 +73808,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Venice",
+        "NAME": "Venice",
         "cartodb_id": 99,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -74954,7 +74954,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vermont Knolls",
+        "NAME": "Vermont Knolls",
         "cartodb_id": 100,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -75248,7 +75248,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vermont-Slauson",
+        "NAME": "Vermont-Slauson",
         "cartodb_id": 101,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -75506,7 +75506,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vermont Square",
+        "NAME": "Vermont Square",
         "cartodb_id": 102,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -75788,7 +75788,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Vermont Vista",
+        "NAME": "Vermont Vista",
         "cartodb_id": 103,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -76242,7 +76242,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Watts",
+        "NAME": "Watts",
         "cartodb_id": 104,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -77012,7 +77012,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "West Adams",
+        "NAME": "West Adams",
         "cartodb_id": 105,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -77486,7 +77486,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Westchester",
+        "NAME": "Westchester",
         "cartodb_id": 106,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -79204,7 +79204,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "West Hills",
+        "NAME": "West Hills",
         "cartodb_id": 107,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -80238,7 +80238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Westlake",
+        "NAME": "Westlake",
         "cartodb_id": 108,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -80708,7 +80708,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "West Los Angeles",
+        "NAME": "West Los Angeles",
         "cartodb_id": 109,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -80962,7 +80962,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Westwood",
+        "NAME": "Westwood",
         "cartodb_id": 110,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -81740,7 +81740,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wilmington",
+        "NAME": "Wilmington",
         "cartodb_id": 111,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -84666,7 +84666,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Windsor Square",
+        "NAME": "Windsor Square",
         "cartodb_id": 112,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -84860,7 +84860,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Winnetka",
+        "NAME": "Winnetka",
         "cartodb_id": 113,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
@@ -85394,7 +85394,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Woodland Hills",
+        "NAME": "Woodland Hills",
         "cartodb_id": 114,
         "created_at": "2013-02-15T22:11:28.256Z",
         "updated_at": "2013-02-15T22:11:28.504Z"
